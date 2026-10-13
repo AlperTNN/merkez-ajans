@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "30-medya/ham",
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "userIgnoreFilters": [
+    "arsiv/",
+    "araclar/",
+    "moduller/"
+  ]
+}

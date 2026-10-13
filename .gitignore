@@ -1,0 +1,24 @@
+# Büyük medya dosyaları Git'e girmez (OneDrive'da kalır); klasör yapısı .gitkeep ile korunur
+30-medya/ham/*
+!30-medya/ham/.gitkeep
+30-medya/islenmis/*
+!30-medya/islenmis/.gitkeep
+
+# Obsidian'ın kişisel/geçici dosyaları
+.obsidian/workspace*.json
+.obsidian/cache
+
+# Claude Code kişisel ayarları
+.claude/settings.local.json
+
+# Geçici dosyalar
+__pycache__/
+*.pyc
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Script durum dosyalari (bütçe kancası)
+araclar/.durum/

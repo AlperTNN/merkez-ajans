@@ -1,0 +1,19 @@
+# Marka kimliği — marka adının TEK kaynağı.
+# Sadece Patron değiştirir. İsim değişirse sadece bu dosya güncellenir.
+marka_adi: Aurista
+anlam: "Aur (altın) + -ista (usta) = altın usta; eli altın deyimine bağlanır"
+hikaye: "Eli altın bir ustanın elinden."
+slogan: ""
+dil: tr
+koleksiyonlar:
+  - orgu       # el örgüsü kıyafetler
+  - canta      # tığ örgüsü çantalar
+  - yilbasi    # yılbaşı süsleri
+  - taki       # takı tasarımı
+  - gelin      # tel ve boncukla gelin aksesuarları
+hesaplar:      # henüz açılmadı; kullanıcı adları kontrol edilecek
+  instagram: ""
+  facebook: ""
+  tiktok: ""
+  pinterest: ""
+alan_adi: ""

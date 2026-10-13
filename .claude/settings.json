@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./.obsidian/**)",
+      "Read(./arsiv/**)",
+      "Read(./30-medya/ham/**)",
+      "Read(./30-medya/islenmis/**)",
+      "Edit(./10-marka/**)"
+    ]
+  },
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"$CLAUDE_PROJECT_DIR/araclar/oturum_kullanimi.py\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

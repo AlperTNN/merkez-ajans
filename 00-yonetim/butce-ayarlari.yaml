@@ -1,0 +1,13 @@
+# Bütçe ayarları — birim: "API karşılığı" tahmini USD.
+# Pro'da gerçek ödeme değildir; göreli ölçüdür. İlk haftalarda Claude'un kullanım ekranıyla kalibre edilir.
+sirket_haftalik_pay: 20.0
+uyari_esigi: 0.70
+kritik_esigi: 0.90
+opus_payi_orani: 0.12
+# Departman payları (tanımlı olmayan departman "diger" payını kullanır)
+pay_ceo: 5.0
+pay_marka: 2.0
+pay_urun: 2.0
+pay_medya: 2.0
+pay_arge: 3.0
+pay_diger: 2.0
